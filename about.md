@@ -1,9 +1,15 @@
 ---
 layout: page
-title: Sign up
-permalink: /signup/
+title: About
+permalink: /about/
 ---
 
-Please sign up to our email list to receive information about meetups, tournaments, and other events [http://eepurl.com/bRofg9](http://eepurl.com/bRofg9)
+The City of London Backgammon Club aims to:
 
-We will obviously never pass on your information to anyone else, ever.
+Provide a friendly and convenient place for players to enjoy backgammon games, tournaments, and chouettes.
+
+Improve our members' skill over time.
+
+Send members to local, national, and international tournaments.
+
+
