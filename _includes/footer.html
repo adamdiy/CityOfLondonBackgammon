@@ -7,8 +7,17 @@
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+
+
+
+            <li>
+
+                <a href="https://www.facebook.com/CityOfLondonBackgammon">
+                    <i class="svg-icon facebook"></i>
+                    <span class="username">Facebook: CityOfLondonBackgammon</span>
+                </a>
+            </li>
+
             {% if site.twitter_username %}
             <li>
                 <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -23,13 +32,9 @@
             </li>
             {% endif %}
 
-            <li>
-                
-                <a href="https://www.facebook.com/CityOfLondonBackgammon">
-                    <i class="svg-icon facebook"></i>
-                    <span class="username">CityOfLondonBackgammon</span>
-                </a>
-            </li>
+
+            <li>{{ site.title }}</li>
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
 
         </ul>
       </div>
